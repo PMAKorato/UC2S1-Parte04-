@@ -1,5 +1,5 @@
 import getpass
- 
+import menu
 #declaracion de variables
 
 registeredUser =open("login.txt","rt")
@@ -33,9 +33,7 @@ while usuario != user:
     if login(usuario,passw)==1:
         print('Bienvenido',usuario)
         print("\n\tDatos Persona")
-        print("\n\t1.Listar Personas")
-        print("\n\t2.Agregar Personas")
-        print("\n\t3.Salir")
+        menu.menu_principal()
         
     else:
         print('Usuario no registrado')
