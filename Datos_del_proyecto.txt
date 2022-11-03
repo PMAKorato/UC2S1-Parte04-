@@ -1,0 +1,12 @@
+Integrantes
+Nombre del Estudiante 01: Bravo Aquilino, Yessica Anggie
+Git Hub: https://github.com/AnggieBravo/UC2S1-Parte01.git
+
+Nombre del Estudiante 02: Huanuco Vicuña, James Nilton
+Git Hub: https://github.com/JTanzer129/UC2S1-Parte02.git
+
+Nombre del Estudiante 03: Nanquen Castillo, Piero Alonso
+Git Hub: https://github.com/Nanky0454/UC2S1-Parte03.git
+
+Nombre del Estudiante 04: Arones Paz, Oren Octavio
+Git Hub: https://github.com/PMAKorato/UC2S1-Parte04-.git
